@@ -1,0 +1,15 @@
+node_modules/
+.vercel/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+
+# Internal documentation
+TODO.md
+DEPLOY.md
+deployment.md
+
+# Personal assets
+Personal/

@@ -1,0 +1,13 @@
+{
+  "name": "adhithyan-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal developer portfolio of Adhithyan S. Static site: HTML, CSS and JavaScript, no build step.",
+  "scripts": {
+    "dev": "npx --yes serve . -l 3000",
+    "set-domain": "node scripts/set-domain.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "author": "Adhithyan S",
+  "license": "MIT"
+}
